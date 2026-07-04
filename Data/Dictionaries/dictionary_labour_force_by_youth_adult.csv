@@ -1,0 +1,14 @@
+﻿column_names,data_type,description
+age_group,object,Age category: Youth (Age: 16-30 years) or Adult (Age: 31 and over)
+year,int64,Survey year (2019 to 2025)
+quarter,object,"Survey quarter (Q1, Q2, Q3, Q4)"
+employment_to_population_ratio,float64,Employment-to-population ratio for this age category (%)
+lf_participation_rate,float64,Participation rate for this age category (%)
+lu1_unemployment_rate,float64,Unemployment rate for this age category (%)
+lu2_unemployment_underemployment_rate,float64,Combined unemployment and underemployment rate (%)
+lu3_unemployment_potential_lf_rate,float64,Combined unemployment and potential labour force rate (%)
+lu4_labour_underutilization_rate,float64,Composite labour underutilization (%)
+median_monthly_earnings,float64,Median monthly earnings at main job (RWF)
+youth_neet_rate,float64,Youth NEET rate (%)
+out_of_lf_inactivity_rate,float64,Inactivity rate (%)
+time_underemployment_rate,float64,Time-related underemployment rate (%)
